@@ -1,0 +1,44 @@
+{
+  "name": "react-app-bootstrap",
+  "version": "0.0.1",
+  "description": "Seed Template for React Apps using Parcel-Bundler",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^8.0.0",
+    "babel-core": "^6.26.0",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "font-awesome": "^4.7.0",
+    "parcel-bundler": "^1.5.1",
+    "react": "^16.2.0",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "react-dom": "^16.2.0",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "scripts": {
+    "start": "./node_modules/.bin/parcel index.html",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkashBabu/react-app-bootstrap.git"
+  },
+  "keywords": [
+    "react",
+    "seed",
+    "template",
+    "bulma",
+    "font-awesome"
+  ],
+  "author": "Akash Babu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AkashBabu/react-app-bootstrap/issues"
+  },
+  "homepage": "https://github.com/AkashBabu/react-app-bootstrap#readme"
+}
